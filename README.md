@@ -12,7 +12,7 @@ The libray used are:
 * openCV (cv2)
 * matplotlib
 * numpy
-* ROS (molodic version)
+* ROS (melodic version)
 * [keyboard library](https://github.com/boppreh/keyboard)
 
 The following code has been tested only on Ubuntu 18.04.
